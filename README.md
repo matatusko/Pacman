@@ -20,4 +20,10 @@ and this can be done easily, so if you feel like contributing you are more than 
 All the assets were drawn by me (feel free to use them as you please), while the sounds have been found online on some free-sounds website
 if I remember correctly. 
 
-Here are some screenshots from the game:
+## Screenshots
+Here are some screenshots from the game, in case you are curious how the game looks like:
+
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_00.png)
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_01.png)
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_02.png)
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_03.png)
