@@ -23,7 +23,7 @@ if I remember correctly.
 ## Screenshots
 Here are some screenshots from the game, in case you are curious how the game looks like:
 
-![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_00.png)
-![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_01.png)
-![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_02.png)
-![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_03.png)
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_00.png | width=100)
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_01.png | width=100)
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_02.png | width=100)
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_03.png | width=100)
