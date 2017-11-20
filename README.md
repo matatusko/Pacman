@@ -24,6 +24,6 @@ if I remember correctly.
 Here are some screenshots from the game, in case you are curious how the game looks like:
 
 ![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_00.png){:height="50%" width="50%"}
-![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_01.png)
-![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_02.png)
-![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_03.png)
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_01.png){:height="50%" width="50%"}
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_02.png){:height="50%" width="50%"}
+![alt text](https://github.com/matatusko/Pacman/blob/master/screenshots/pacman_screenshot_03.png){:height="50%" width="50%"}
