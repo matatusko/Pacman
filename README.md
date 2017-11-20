@@ -1,6 +1,6 @@
 # Pacman
 
-Pacman clone written in Java. This was a part of Java module at uni, where we had to develop something with graphics. Figured out Pacman
+Pacman clone written in Java using javafx. This was a part of Java module at uni, where we had to develop something with graphics. Figured out Pacman
 is a perfect candidate :) 
 
 The whole game works as it was intended. Ghosts and Pacman are animated, you have magical dots, which allow you to eat ghosts for 10 seconds,
